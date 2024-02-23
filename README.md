@@ -1,2 +1,2 @@
 this is a clone webpage.
-tis is a clone of flipkatt seller page
+this is a clone of flipkatt seller page
